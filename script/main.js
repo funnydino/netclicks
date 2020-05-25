@@ -27,3 +27,5 @@ leftMenu.addEventListener('click', (event) => {
     hamburger.classList.add('open');
   }
 });
+
+// Окончание первого урока
